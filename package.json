@@ -29,7 +29,7 @@
     "lodash": "^4.16.2",
     "simple-node-logger": "^0.93.36",
     "superagent": "^3.8.2",
-    "validator": "^9.4.0",
+    "validator": "^13.9.0",
     "uuid": "^3.2.1"
   },
   "devDependencies": {
